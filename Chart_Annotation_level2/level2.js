@@ -1,0 +1,1 @@
+//1) Create labels on horizontal and vertical axes. 2) rotate and position the tiles along an axis. 
